@@ -4,3 +4,5 @@ test reset
 
 test reset --soft
 
+test reset --mixed
+
