@@ -2,3 +2,5 @@ aaaaaa
 
 test reset
 
+test reset --soft
+
